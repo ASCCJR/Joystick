@@ -4,6 +4,10 @@
  * Declara a API pública para inicializar e ler o estado do joystick (eixos X/Y e botão).
  */
 
+/**
+ * https://github.com/ASCCJR
+ */
+
 #ifndef JOYSTICK_H
 #define JOYSTICK_H
 
