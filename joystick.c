@@ -4,6 +4,10 @@
  * Inclui funções para inicializar e ler o estado dos eixos X/Y e do botão SW.
  */
 
+/**
+ * https://github.com/ASCCJR
+ */
+
 #include "joystick.h"
 #include "hardware/gpio.h" // Para controle de GPIO
 #include "hardware/adc.h"  // Para controle do ADC
